@@ -361,6 +361,19 @@ section {
   display: flex;
 }
 
+/* GRID START*/
+
+
+.service-grid-container {
+
+}
+
+.service-grid-item {
+  
+}
+
+/* GRID END*/
+
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
   header {
